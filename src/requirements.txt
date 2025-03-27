@@ -1,0 +1,7 @@
+requests
+fastapi
+uvicorn
+python-multipart
+nest_asyncio
+python-telegram-bot
+dotenv
