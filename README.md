@@ -5,3 +5,4 @@ This bot can identify the plant on a photo.
 # docker build -t my_telegram_bot .
 # docker run my_telegram_bot
 # That's all
+P.S. If you want to stop bot, you must write "docker stop "id вашего контейнера"", id контейнера можно узнать введя "docker ps"
